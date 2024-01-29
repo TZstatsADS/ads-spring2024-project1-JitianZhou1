@@ -1,0 +1,239 @@
+,aunt
+0,auntie
+1,aunties
+2,aunts
+3,aunty
+4,babies
+5,baby
+6,bae
+7,best friend
+8,bestfriend
+9,bestfriends
+10,bestie
+11,besties
+12,bf
+13,bff
+14,bffs
+15,boy
+16,boyfriend
+17,boys
+18,bro
+19,brother
+20,brother-in-law
+21,brothers
+22,buddies
+23,buddy
+24,child
+25,children
+26,close friend
+27,co-worker
+28,colleague
+29,cousin
+30,cousins
+31,coworker
+32,dad
+33,daddy
+34,dads
+35,daughter
+36,daughter-in-law
+37,daughters
+38,dudes
+39,elder brother
+40,elder son
+41,eldest
+42,eldest son
+43,everybody
+44,everyone
+45,ex-boyfriend
+46,ex-girlfriend
+47,ex-husband
+48,ex-wife
+49,families
+50,family
+51,father
+52,father-in-law
+53,fiance
+54,fiancee
+55,fiancé
+56,fiancée
+57,folks
+58,friend
+59,friends
+60,gf
+61,girl
+62,girlfriend
+63,girls
+64,good friend
+65,grand-daughter
+66,grandaughter
+67,grandchild
+68,grandchildren
+69,granddaughter
+70,granddaughters
+71,grandfather
+72,grandfathers
+73,grandma
+74,grandmas
+75,grandmother
+76,grandmothers
+77,grandpa
+78,grandparents
+79,grandson
+80,grandsons
+81,grannies
+82,granny
+83,great-grandchildren
+84,great-granddaughter
+85,great-grandfather
+86,great-grandmother
+87,great-grandson
+88,great-great-grandson
+89,guy
+90,guys
+91,hubby
+92,husband
+93,in-law
+94,in-laws
+95,infant
+96,infants
+97,inlaws
+98,kid
+99,kids
+100,lover
+101,mama
+102,mamma
+103,man
+104,mom
+105,momma
+106,mommy
+107,moms
+108,mother
+109,mother-in-law
+110,mothers
+111,mum
+112,neice
+113,neighbor
+114,neighbors
+115,neighbour
+116,neighbours
+117,nephew
+118,nephews
+119,newborn
+120,newborns
+121,niece
+122,nieces
+123,older brother
+124,oldest son
+125,only son
+126,pals
+127,papa
+128,pappa
+129,parent
+130,parents
+131,partner
+132,partners
+133,people
+134,person
+135,ppl
+136,preschoolers
+137,second son
+138,sister
+139,sister-in-law
+140,sisters
+141,sisters-in-law
+142,somebody
+143,someone
+144,son
+145,son-in-law
+146,sons
+147,step-father
+148,step-mother
+149,stepdaughter
+150,stepfather
+151,stepmother
+152,stepson
+153,them
+154,toddler
+155,toddlers
+156,uncle
+157,uncles
+158,wife
+159,woman
+160,younger brother
+161,younger son
+162,youngest son
+163,fathers
+164,siblings
+165,chick
+166,chicks
+167,sibling
+168,babe
+169,girlfriends
+170,brunette
+171,babes
+172,boyfriends
+173,blonde
+174,bby
+175,cutie
+176,blond
+177,hotties
+178,blondes
+179,brunettes
+180,blonds
+181,women
+182,men
+183,peeps
+184,great-grandparents
+185,stepdad
+186,coworkers
+187,co-workers
+188,grandkids
+189,every1
+190,some1
+191,tenns
+192,teens
+193,teen
+194,teenagers
+195,teenager
+196,my crush
+197,my ex
+198,his crush
+199,her crush
+200,his ex
+201,her ex
+202,only child
+203,twin brother
+204,ladies
+205,redheads
+206,only daughter
+207,mommies
+208,adults
+209,eldest daughter
+210,youngest child
+211,youngest daughter
+212,eldest child
+213,sis
+214,stepmom
+215,mummy
+216,kiddos
+217,fellas
+218,fella
+219,bloke
+220,lad
+221,colleagues
+222,blokes
+223,lads
+224,adult
+225,childhood friend
+226,customer
+227,client
+228,stranger
+229,strangers
+230,co worker
+231,love of my life
+232,[\w]*mate(s?)
+233,act(or|ress)
+234,lady
+235,teacher
+236,celebrity
+237,professor
